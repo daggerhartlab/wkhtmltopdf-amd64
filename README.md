@@ -6,5 +6,4 @@ This package has been developed by H&H|Digital, an Australian botique developer.
 
 ## Install
 
-* `sudo apt-get install x11-common libfontenc1 xfonts-75dpi xfonts-base xfonts-encodings xfonts-utils`
-* `composer require hnhdigital-os/wkhtmltopdf-amd64-xenial-binaries 0.12.5`
+* `composer require daggerhartlab/wkhtmltopdf-amd64:^0.12.5`
