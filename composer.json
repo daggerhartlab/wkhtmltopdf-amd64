@@ -1,5 +1,5 @@
 {
-    "name": "hnhdigital-os/wkhtmltopdf-amd64-xenial-binaries",
+    "name": "daggerhartlab/wkhtmltopdf-amd64",
     "description": "wkhtmltopdf for Ubuntu 64-bit Xenial",
     "keywords": ["wkhtmltopdf", "amd64", "linux", "64-bit"],
     "authors": [
